@@ -6,3 +6,5 @@ git push
 git status
 git log
 git diff
+git remote add origin url
+
