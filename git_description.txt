@@ -1,6 +1,8 @@
 git init
 git add
 git rm
+    -r directory@#directory‚²‚Æíœ
+    --cached filename # github‚ÌŠÇ—‚ğíœ
 git commit
 git push
 git status
