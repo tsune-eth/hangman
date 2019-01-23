@@ -1,6 +1,8 @@
 def hangman(word):
 	"""
-	This is python test
+	This is python test.
+	My first GitHub.
+		
 	"""
 	wrong = 0
 	stages = ["",
