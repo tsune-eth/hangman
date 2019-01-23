@@ -44,3 +44,4 @@ ans = ["red","white","black","blue","yellow","gold","pink"]
 import random
 a = random.randint(0,6)
 hangman(ans[a])
+# コメント
